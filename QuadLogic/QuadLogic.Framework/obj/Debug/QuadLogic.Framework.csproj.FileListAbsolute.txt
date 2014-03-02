@@ -1,0 +1,4 @@
+C:\VS2012Projects\QuadLogic\QuadLogic.Framework\bin\Debug\QuadLogic.Framework.dll
+C:\VS2012Projects\QuadLogic\QuadLogic.Framework\bin\Debug\QuadLogic.Framework.pdb
+C:\VS2012Projects\QuadLogic\QuadLogic.Framework\obj\Debug\QuadLogic.Framework.dll
+C:\VS2012Projects\QuadLogic\QuadLogic.Framework\obj\Debug\QuadLogic.Framework.pdb

@@ -1,0 +1,9 @@
+C:\VS2012Projects\QuadLogic\QuadLogic.Data\bin\Debug\QuadLogic.Data.dll
+C:\VS2012Projects\QuadLogic\QuadLogic.Data\bin\Debug\QuadLogic.Data.pdb
+C:\VS2012Projects\QuadLogic\QuadLogic.Data\bin\Debug\QuadLogic.Core.dll
+C:\VS2012Projects\QuadLogic\QuadLogic.Data\bin\Debug\QuadLogic.Framework.dll
+C:\VS2012Projects\QuadLogic\QuadLogic.Data\bin\Debug\QuadLogic.Core.pdb
+C:\VS2012Projects\QuadLogic\QuadLogic.Data\bin\Debug\QuadLogic.Framework.pdb
+C:\VS2012Projects\QuadLogic\QuadLogic.Data\obj\Debug\QuadLogic.Data.csprojResolveAssemblyReference.cache
+C:\VS2012Projects\QuadLogic\QuadLogic.Data\obj\Debug\QuadLogic.Data.dll
+C:\VS2012Projects\QuadLogic\QuadLogic.Data\obj\Debug\QuadLogic.Data.pdb

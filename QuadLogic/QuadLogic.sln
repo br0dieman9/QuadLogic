@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadLogic.Core", "QuadLogic.Core\QuadLogic.Core.csproj", "{8452069A-1244-45B4-BC1B-02AE8075B2D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadLogic.Data", "QuadLogic.Data\QuadLogic.Data.csproj", "{A29C6E54-F200-4A00-B91B-C3096177AC21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadLogic.Service", "QuadLogic.Service\QuadLogic.Service.csproj", "{3C0B9574-D64C-4EF1-9448-84FA63CBB817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadLogic.Framework", "QuadLogic.Framework\QuadLogic.Framework.csproj", "{BD1C0274-478F-4F81-B82F-F68A70653669}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{5FFEA5D4-89E8-4797-9072-0FA01E809514}"
+	ProjectSection(SolutionItems) = preProject
+		lib\AutoMapper.dll = lib\AutoMapper.dll
+		lib\AutoMapper.pdb = lib\AutoMapper.pdb
+		lib\AutoMapper.xml = lib\AutoMapper.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadLogic.Listener", "QuadLogic.Console\QuadLogic.Listener.csproj", "{569CB220-009D-4D23-B554-45577E816CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadLogic", "QuadLogic\QuadLogic.csproj", "{2145C1F1-74F4-4141-BBFC-B403E1A2442F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8452069A-1244-45B4-BC1B-02AE8075B2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8452069A-1244-45B4-BC1B-02AE8075B2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8452069A-1244-45B4-BC1B-02AE8075B2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8452069A-1244-45B4-BC1B-02AE8075B2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29C6E54-F200-4A00-B91B-C3096177AC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29C6E54-F200-4A00-B91B-C3096177AC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29C6E54-F200-4A00-B91B-C3096177AC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29C6E54-F200-4A00-B91B-C3096177AC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C0B9574-D64C-4EF1-9448-84FA63CBB817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0B9574-D64C-4EF1-9448-84FA63CBB817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0B9574-D64C-4EF1-9448-84FA63CBB817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0B9574-D64C-4EF1-9448-84FA63CBB817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD1C0274-478F-4F81-B82F-F68A70653669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1C0274-478F-4F81-B82F-F68A70653669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1C0274-478F-4F81-B82F-F68A70653669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1C0274-478F-4F81-B82F-F68A70653669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569CB220-009D-4D23-B554-45577E816CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569CB220-009D-4D23-B554-45577E816CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569CB220-009D-4D23-B554-45577E816CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569CB220-009D-4D23-B554-45577E816CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2145C1F1-74F4-4141-BBFC-B403E1A2442F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2145C1F1-74F4-4141-BBFC-B403E1A2442F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2145C1F1-74F4-4141-BBFC-B403E1A2442F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2145C1F1-74F4-4141-BBFC-B403E1A2442F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
